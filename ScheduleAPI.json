@@ -1,13 +1,13 @@
 [
     {
       "id": 1,
-      "dateTime": "2018-12-10T13:45:00.000Z",
+      "dateTime": "5-5-2022 11:50",
       "stadim": "Maracana",
       "homeTeam": "Agentina",
       "awayTeam": "serbia",
       "logos": {
-        "homeTeam": "https://countryflagsapi.com/png/br",
-        "awayTeam": "https://countryflagsapi.com/png/rs"
+        "homeTeamLogos": "https://countryflagsapi.com/png/brazil",
+        "awayTeamLogos": "https://countryflagsapi.com/png/serbia"
     },
       "homeTeamScore": 0,
       "awayTeamScore": 0
