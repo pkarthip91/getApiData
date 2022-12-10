@@ -5,10 +5,8 @@
       "stadim": "Maracana",
       "homeTeam": "Agentina",
       "awayTeam": "serbia",
-      "logos": {
-        "homeTeamLogos": "https://countryflagsapi.com/png/brazil",
-        "awayTeamLogos": "https://countryflagsapi.com/png/serbia"
-    },
+      "homeTeamLogos": "https://countryflagsapi.com/png/brazil",
+      "awayTeamLogos": "https://countryflagsapi.com/png/serbia",
       "homeTeamScore": 0,
       "awayTeamScore": 0
     }
