@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "dateTime": "5-5-2022 11:50",
+      "stadim": "Maracana",
+      "homeTeam": "Brazil",
+      "awayTeam": "Serbia",
+      "homeTeamLogos": "https://countryflagsapi.com/png/brazil",
+      "awayTeamLogos": "https://countryflagsapi.com/png/serbia",
+      "homeTeamScore": 1,
+      "awayTeamScore": 0
+    },
+
+    {
+      "id": 2,
+      "dateTime": "5-5-2022 11:50",
+      "stadim": "Stade de Suisse",
+      "homeTeam": "Swizerland",
+      "awayTeam": "Serbia",
+      "homeTeamLogos": "https://countryflagsapi.com/png/switzerland",
+      "awayTeamLogos": "https://countryflagsapi.com/png/serbia",
+      "homeTeamScore": 2,
+      "awayTeamScore": 2
+    },
+  
+    {
+      "id": 3,
+      "dateTime": "5-5-2022 11:50",
+      "stadim": "Stadion Rajko Mitich",
+      "homeTeam": "Serbia",
+      "awayTeam": "Cameroon",
+      "homeTeamLogos": "https://countryflagsapi.com/png/serbia",
+      "awayTeamLogos": "https://countryflagsapi.com/png/cameroon",
+      "homeTeamScore": 3,
+      "awayTeamScore": 2
+    },
+    {
+      "id": 4,
+      "dateTime": "5-5-2022 11:50",
+      "stadim": "Stadion Rajko Mitich",
+      "homeTeam": "Brazil",
+      "awayTeam": "Cameroon",
+      "homeTeamLogos": "https://countryflagsapi.com/png/brazil",
+      "awayTeamLogos": "https://countryflagsapi.com/png/cameroon",
+      "homeTeamScore": 1,
+      "awayTeamScore": 1
+    },
+    {
+      "id": 5,
+      "dateTime": "5-5-2022 11:50",
+      "stadim": "Stade de Suisse",
+      "homeTeam": "Swizerland",
+      "awayTeam": "Serbia",
+      "homeTeamLogos": "https://countryflagsapi.com/png/switzerland",
+      "awayTeamLogos": "https://countryflagsapi.com/png/serbia",
+      "homeTeamScore": 2,
+      "awayTeamScore": 2
+    }
+  ]
