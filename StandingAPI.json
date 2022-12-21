@@ -43,6 +43,6 @@
         "gf": "2",
         "ga": "1",
         "points": "2",
-        "url": "https://countryflagsapi.com/png/brazil"
+        "url": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AC.svg"
       }
   ]
