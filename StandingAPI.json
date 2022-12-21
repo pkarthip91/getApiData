@@ -6,7 +6,7 @@
       "gf": "2",
       "ga": "1",
       "points": "258",
-      "homeTeamLogos": "https://countryflagsapi.com/png/brazil"
+      "url": "https://countryflagsapi.com/png/brazil"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "gf": "2",
         "ga": "1",
         "points": "12",
-        "homeTeamLogos": "https://countryflagsapi.com/png/brazil"
+        "url": "https://countryflagsapi.com/png/brazil"
       },
     
       {
@@ -25,7 +25,7 @@
         "gf": "2",
         "ga": "1",
         "points": "12",
-        "homeTeamLogos": "https://countryflagsapi.com/png/brazil"
+        "url": "https://countryflagsapi.com/png/brazil"
       },
       {
         "id": 4,
@@ -34,7 +34,7 @@
         "gf": "2",
         "ga": "1",
         "points": "12",
-        "homeTeamLogos": "https://countryflagsapi.com/png/brazil"
+        "url": "https://countryflagsapi.com/png/brazil"
       },
       {
         "id": 5,
@@ -43,6 +43,6 @@
         "gf": "2",
         "ga": "1",
         "points": "2",
-        "homeTeamLogos": "https://countryflagsapi.com/png/brazil"
+        "url": "https://countryflagsapi.com/png/brazil"
       }
   ]
